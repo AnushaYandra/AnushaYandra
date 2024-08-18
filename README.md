@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [MERN Project - Job Portal](https://women-elevate-platform.vercel.app/)
 
-- 🌱 I’m currently learning **Web Development**
-
 - 📫 How to reach me **anuyandra445@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
