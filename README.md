@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anusha Yandra</h1>
-<h3 align="center">A Passionate Full Stack Developer</h3>
+<h3 align="center">A Passionate Software Developer</h3>
 
 
 ---
