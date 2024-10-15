@@ -80,7 +80,6 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anushayandra&show_icons=true&theme=radical" alt="anushayandra GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushayandra&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
