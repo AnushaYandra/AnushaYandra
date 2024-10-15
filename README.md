@@ -63,7 +63,7 @@
 
 ---
 
-### 💻 Projects
+### 💻 Recent Projects
 - [**Women Elevate Platform**](https://women-elevate-platform.vercel.app/) - A job portal focused on empowering women by offering curated job listings and resources to help them advance in their careers.
 - [**UniVerse Social Media**](https://issuu.com/yandraanusha7817/docs/universe_social_media_website) - A social platform built for NIT students to connect, share, and stay informed about campus life and placement opportunities.
 
@@ -89,11 +89,5 @@
 
 ---
 
-### 🏆 Achievements
-- **IGBC Green Design Competition** - Special Recognition Award Winner.
-- **World Architecture Day Quiz (2022)** - Third place winner.
-
----
-
 ### ⚡ Fun Fact
-- I’m passionate about **dancing**, **sketching**, and **3D modeling**, often merging my artistic interests with tech.
+- I’m passionate about **dancing**, **sketching**, and **painting**, often merging my artistic interests with tech.
